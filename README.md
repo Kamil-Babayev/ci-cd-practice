@@ -1,5 +1,6 @@
-![alt text goes here](https://github.com/Kamil-Babayev/ci-cd-practice/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 # learn-cicd-starter (Notely)
+
+![code coverage badge](https://github.com/Kamil-Babayev/ci-cd-practice/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
